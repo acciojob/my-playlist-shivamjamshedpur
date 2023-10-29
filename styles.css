@@ -2,6 +2,9 @@
 body{
 	background-color: rgb(204, 204, 204);
 }
+.player_one,.player_two{
+	
+}
 h1,h2,h3{
 	text-align:center;
 }
@@ -23,6 +26,6 @@ audio,video { width:98%;
 #videobox {
 	 margin: auto;
 	padding:15px;
-	align-item:center;
-	
+	padding-left:35px;
+	align-item:center;	
 }
