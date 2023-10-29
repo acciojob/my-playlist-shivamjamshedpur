@@ -7,4 +7,20 @@ h1,h2,h3{
 }
 li{
 	list-style-type: none;
+	padding:3px;
+	font-size: 20px; 
+	font-weight:bold;
+}
+.box{
+	align-item:center;
+	background-color: white;
+	border:2px solid black;
+	border-radius:10px;
+}
+audio { width:100%; }
+#videobox {
+	 margin: auto;
+	padding:10px;
+	align-item:center;
+	
 }
